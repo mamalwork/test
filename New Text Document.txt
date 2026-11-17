@@ -1,1 +1,17 @@
-new file txt added
+git status
+git checkout main
+git pull
+git merge ur-name-branch
+git push
+ssh 
+pass
+cd public_html
+cd emam8.net
+git status
+git pull
+user name and pass
+php artisan migrate:status
+php artisan migrate
+yes
+close terminal
+test site
